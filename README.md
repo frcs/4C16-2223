@@ -62,7 +62,23 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
 
+## 01 - Linear Regression/Least Squares
+
+* [pdf slides](/handouts/handout-01-linear-regression.pdf)
+* recorded videos from past years
+   - [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
+   - [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
+   - [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
+   - [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
+   - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
 
 
+
+## Past Exam
+The format of the exam has changed but this past exam could still be useful your preparation.
+* [2017/18 exam](/handouts/exam-2017-18.pdf)
+* [2017/18 exam with solutions](/handouts/exam-2017-18-solutions.pdf)
 
