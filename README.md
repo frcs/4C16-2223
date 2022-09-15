@@ -73,6 +73,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 * [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
 * [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
    - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
+* [short quiz](/handouts/quiz1b-short.pdf)
 
 
 
