@@ -75,6 +75,9 @@ The lab system handbook and instructions for lab 0 can be found here:
    - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 * [short quiz](/handouts/quiz1b-short.pdf)
 
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
 
 
