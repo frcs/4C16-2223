@@ -84,6 +84,15 @@ The lab system handbook and instructions for lab 0 can be found here:
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 
 
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+
+## 04 - Evaluating Classifier Performance
+
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+
+
 ## Past Exam
 The format of the exam has changed but this past exam could still be useful your preparation.
 * [2017/18 exam](/handouts/exam-2017-18.pdf)
