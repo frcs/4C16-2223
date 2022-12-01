@@ -112,6 +112,13 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](handouts/handout-08-recurrent-neural-networks.pdf)
 
+## 09 - Auto-Encoders
+
+* [pdf slides](handouts/handout-09-autoencoders.pdf)
+
+## 10 - Transformers
+
+* [pdf slides](handouts/handout-10-transformers.pdf)
 
 
 ## Past Exam
